@@ -1,7 +1,5 @@
 # 0000test
 
-asfas
-
 asdfasdf
 
 十多个
@@ -99,14 +97,6 @@ Scrolling Texme Waster
 Scrolling Texime Waster
 Scrolling TexTime Waster
 Scrolling Tex Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
-Scrolling Text Time Waster
 Scrolling Text Time Waster
 Scrolling Text Time Waster
 Scrolling Text Time Waster
